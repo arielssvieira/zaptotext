@@ -59,3 +59,7 @@ Olá, gostaria de entender melhor as conversas transcritas neste arquivo. Poderi
 - A instalação das dependências só precisa ser feita uma vez. Após isso, basta usar o script `zaptotext.sh` para transcrever os áudios.
 - Se encontrar qualquer problema durante a execução do script de instalação, verifique se o Homebrew está corretamente instalado e atualizado.
 
+- ## Demonstração
+
+- https://youtu.be/QYcna7G-0cQ
+
